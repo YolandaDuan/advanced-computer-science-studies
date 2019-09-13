@@ -3,3 +3,4 @@
 gcc -Wall input.c -o input
 
 ./input
+
